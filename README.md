@@ -11,7 +11,7 @@ Using this dataset, a dashboard was created in Tableau, offering an intuitive an
 <p>📍 The dataset is available via the following link: <a href="https://www.kaggle.com/datasets/hopesb/student-depression-dataset">Kaggle Link</a>.
 <p>📍 Live Dashboard: <a href="https://public.tableau.com/views/StudentDepression_17344379049530/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau Link</a></p>
   <img src="./outputs/dashboard.png">
-h3>:mag_right: Key Visualizations and Insights</h3>
+<h3>:mag_right: Key Visualizations and Insights</h3>
 <ol>
   <b><li>Age & Gender Percentage</li></b>
   <img src="./outputs/1.png">
